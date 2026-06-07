@@ -50,6 +50,8 @@ const HeroSection = () => {
       {/* HERO */}
       <section className="hero" id="hero">
         <div className="hero-bg" />
+        <div className="hero-illustration" />
+        <div className="hero-overlay" />
         <div className="hero-grain" />
         <div className="hero-aura" ref={auraRef} id="heroAura" />
 

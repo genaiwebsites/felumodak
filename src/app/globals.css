@@ -251,7 +251,7 @@ nav.main-nav.scrolled {
 /* ─── HERO ─── */
 .hero {
   position: relative;
-  height: 100svh;
+  height: 100vh;
   min-height: 680px;
   display: flex;
   align-items: center;
@@ -262,9 +262,23 @@ nav.main-nav.scrolled {
 .hero-bg {
   position: absolute;
   inset: 0;
+  background: var(--ink);
+}
+
+.hero-illustration {
+  position: absolute;
+  inset: 0;
+  background: url('/assets/images/kolkata_street.jpg') no-repeat center center / cover;
+  filter: invert(0.93) sepia(0.3) saturate(1.5) opacity(0.12);
+  pointer-events: none;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
   background: radial-gradient(ellipse 70% 60% at 28% 55%, rgba(139, 58, 26, .22) 0%, transparent 70%),
-    radial-gradient(ellipse 50% 40% at 78% 18%, rgba(196, 146, 42, .09) 0%, transparent 60%),
-    var(--ink);
+    radial-gradient(ellipse 50% 40% at 78% 18%, rgba(196, 146, 42, .09) 0%, transparent 60%);
+  pointer-events: none;
 }
 
 .hero-grain {
