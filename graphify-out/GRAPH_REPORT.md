@@ -1,16 +1,16 @@
 # Graph Report - FeluModak  (2026-06-07)
 
 ## Corpus Check
-- 36 files · ~128,509 words
+- 35 files · ~126,175 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 132 nodes · 133 edges · 21 communities (15 shown, 6 thin omitted)
+- 130 nodes · 131 edges · 23 communities (15 shown, 8 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `8e4056c9`
+- Built from commit: `4dc8026a`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -32,6 +32,7 @@
 - [[_COMMUNITY_Community 15|Community 15]]
 - [[_COMMUNITY_Community 16|Community 16]]
 - [[_COMMUNITY_Community 17|Community 17]]
+- [[_COMMUNITY_Community 20|Community 20]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `useCart()` - 15 edges
@@ -60,11 +61,11 @@
 ## Import Cycles
 - None detected.
 
-## Communities (21 total, 6 thin omitted)
+## Communities (23 total, 8 thin omitted)
 
 ### Community 0 - "Community 0"
-Cohesion: 0.15
-Nodes (12): CartDrawer(), CartContext, useCart(), Navbar(), Navigation(), CraftSection(), PILLARS_DATA, FESTIVE_BOXES (+4 more)
+Cohesion: 0.13
+Nodes (13): CartDrawer(), CartContext, CartProvider(), useCart(), Navbar(), Navigation(), CraftSection(), PILLARS_DATA (+5 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.14
@@ -90,10 +91,6 @@ Nodes (4): barlow, barlowCondensed, cormorant, metadata
 Cohesion: 0.33
 Nodes (5): 1. Product Vision & Value Proposition, 2. Technical Stack, 3. Product Catalog (Crawled Content), Product Requirements Document (PRD): Felu Modak Next.js Brand Experience, The Objective
 
-### Community 7 - "Community 7"
-Cohesion: 0.11
-Nodes (3): CartProvider(), HERITAGE_TIMELINE, HeroCanvas
-
 ### Community 8 - "Community 8"
 Cohesion: 0.40
 Nodes (4): 1. Single-Page Scroll Structure, 2. Component Structure (Next.js App Router), 3. Data Integration & State Pipeline, Technical Architecture & Data Flow: Felu Modak Next.js Brand Experience
@@ -109,7 +106,7 @@ Nodes (3): Deploy on Vercel, Getting Started, Learn More
 ## Knowledge Gaps
 - **58 isolated node(s):** `eslintConfig`, `@/*`, `nextConfig`, `name`, `version` (+53 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **6 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **8 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
@@ -118,7 +115,7 @@ _Questions this graph is uniquely positioned to answer:_
   _High betweenness centrality (0.022) - this node is a cross-community bridge._
 - **What connects `eslintConfig`, `@/*`, `nextConfig` to the rest of the system?**
   _58 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `Community 0` be split into smaller, more focused modules?**
+  _Cohesion score 0.1282051282051282 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
-- **Should `Community 7` be split into smaller, more focused modules?**
-  _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._

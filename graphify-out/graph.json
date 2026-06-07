@@ -378,16 +378,16 @@
       "source_file": "src/app/page.js",
       "source_location": "L1",
       "id": "app_page",
-      "community": 7,
+      "community": 0,
       "norm_label": "page.js"
     },
     {
       "label": "Home()",
       "file_type": "code",
       "source_file": "src/app/page.js",
-      "source_location": "L18",
+      "source_location": "L15",
       "id": "app_page_home",
-      "community": 7,
+      "community": 0,
       "norm_label": "home()"
     },
     {
@@ -414,7 +414,7 @@
       "source_file": "src/components/layout/Footer.js",
       "source_location": "L1",
       "id": "layout_footer",
-      "community": 7,
+      "community": 0,
       "norm_label": "footer.js"
     },
     {
@@ -423,7 +423,7 @@
       "source_file": "src/components/layout/Footer.js",
       "source_location": "L5",
       "id": "layout_footer_footer",
-      "community": 7,
+      "community": 0,
       "norm_label": "footer()"
     },
     {
@@ -439,7 +439,7 @@
       "label": "Navbar()",
       "file_type": "code",
       "source_file": "src/components/layout/Navbar.js",
-      "source_location": "L6",
+      "source_location": "L5",
       "id": "layout_navbar_navbar",
       "community": 0,
       "norm_label": "navbar()"
@@ -475,7 +475,7 @@
       "label": "ContactSection()",
       "file_type": "code",
       "source_file": "src/components/sections/ContactSection.js",
-      "source_location": "L7",
+      "source_location": "L5",
       "id": "sections_contactsection_contactsection",
       "community": 7,
       "norm_label": "contactsection()"
@@ -490,10 +490,19 @@
       "norm_label": "craftsection.js"
     },
     {
+      "label": "PILLARS_DATA",
+      "file_type": "code",
+      "source_file": "src/components/sections/CraftSection.js",
+      "source_location": "L5",
+      "id": "sections_craftsection_pillars_data",
+      "community": 0,
+      "norm_label": "pillars_data"
+    },
+    {
       "label": "CraftSection()",
       "file_type": "code",
       "source_file": "src/components/sections/CraftSection.js",
-      "source_location": "L8",
+      "source_location": "L38",
       "id": "sections_craftsection_craftsection",
       "community": 0,
       "norm_label": "craftsection()"
@@ -531,16 +540,25 @@
       "source_file": "src/components/sections/HeritageSection.js",
       "source_location": "L1",
       "id": "sections_heritagesection",
-      "community": 7,
+      "community": 20,
       "norm_label": "heritagesection.js"
+    },
+    {
+      "label": "HERITAGE_TIMELINE",
+      "file_type": "code",
+      "source_file": "src/components/sections/HeritageSection.js",
+      "source_location": "L5",
+      "id": "sections_heritagesection_heritage_timeline",
+      "community": 20,
+      "norm_label": "heritage_timeline"
     },
     {
       "label": "HeritageSection()",
       "file_type": "code",
       "source_file": "src/components/sections/HeritageSection.js",
-      "source_location": "L7",
+      "source_location": "L28",
       "id": "sections_heritagesection_heritagesection",
-      "community": 7,
+      "community": 20,
       "norm_label": "heritagesection()"
     },
     {
@@ -574,7 +592,7 @@
       "label": "HeroSection()",
       "file_type": "code",
       "source_file": "src/components/sections/HeroSection.js",
-      "source_location": "L6",
+      "source_location": "L5",
       "id": "sections_herosection_herosection",
       "community": 7,
       "norm_label": "herosection()"
@@ -637,7 +655,7 @@
       "label": "SWEETS_DATA",
       "file_type": "code",
       "source_file": "src/components/sections/MasterpiecesSection.js",
-      "source_location": "L10",
+      "source_location": "L7",
       "id": "sections_masterpiecessection_sweets_data",
       "community": 0,
       "norm_label": "sweets_data"
@@ -646,7 +664,7 @@
       "label": "MasterpiecesSection()",
       "file_type": "code",
       "source_file": "src/components/sections/MasterpiecesSection.js",
-      "source_location": "L68",
+      "source_location": "L97",
       "id": "sections_masterpiecessection_masterpiecessection",
       "community": 0,
       "norm_label": "masterpiecessection()"
@@ -720,7 +738,7 @@
       "source_file": "src/components/ui/AiImage.js",
       "source_location": "L1",
       "id": "ui_aiimage",
-      "community": 0,
+      "community": 21,
       "norm_label": "aiimage.js"
     },
     {
@@ -729,7 +747,7 @@
       "source_file": "src/components/ui/AiImage.js",
       "source_location": "L7",
       "id": "ui_aiimage_aiimage",
-      "community": 0,
+      "community": 21,
       "norm_label": "aiimage()"
     },
     {
@@ -738,7 +756,7 @@
       "source_file": "src/components/ui/CustomCursor.js",
       "source_location": "L1",
       "id": "ui_customcursor",
-      "community": 7,
+      "community": 0,
       "norm_label": "customcursor.js"
     },
     {
@@ -747,26 +765,8 @@
       "source_file": "src/components/ui/CustomCursor.js",
       "source_location": "L5",
       "id": "ui_customcursor_customcursor",
-      "community": 7,
+      "community": 0,
       "norm_label": "customcursor()"
-    },
-    {
-      "label": "Loader.js",
-      "file_type": "code",
-      "source_file": "src/components/ui/Loader.js",
-      "source_location": "L1",
-      "id": "ui_loader",
-      "community": 7,
-      "norm_label": "loader.js"
-    },
-    {
-      "label": "Loader()",
-      "file_type": "code",
-      "source_file": "src/components/ui/Loader.js",
-      "source_location": "L6",
-      "id": "ui_loader_loader",
-      "community": 7,
-      "norm_label": "loader()"
     },
     {
       "label": "TopographicBackground.js",
@@ -846,7 +846,7 @@
       "source_file": "src/context/CartContext.js",
       "source_location": "L7",
       "id": "context_cartcontext_cartprovider",
-      "community": 7,
+      "community": 0,
       "norm_label": "cartprovider()"
     },
     {
@@ -1165,24 +1165,6 @@
       "norm_label": "3. data integration & state pipeline"
     },
     {
-      "label": "PILLARS_DATA",
-      "file_type": "code",
-      "source_file": "src/components/sections/CraftSection.js",
-      "source_location": "L6",
-      "community": 0,
-      "norm_label": "pillars_data",
-      "id": "sections_craftsection_pillars_data"
-    },
-    {
-      "label": "HERITAGE_TIMELINE",
-      "file_type": "code",
-      "source_file": "src/components/sections/HeritageSection.js",
-      "source_location": "L5",
-      "community": 7,
-      "norm_label": "heritage_timeline",
-      "id": "sections_heritagesection_heritage_timeline"
-    },
-    {
       "label": "HeroCanvas",
       "file_type": "code",
       "source_file": "src/components/sections/HeroSection.js",
@@ -1369,9 +1351,9 @@
       "source_file": "package.json",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "package_dependencies",
-      "target": "package_dependencies_gsap",
-      "confidence_score": 1.0
+      "target": "package_dependencies_gsap"
     },
     {
       "relation": "contains",
@@ -1673,17 +1655,6 @@
       "confidence_score": 1.0,
       "source": "app_page",
       "target": "ui_customcursor"
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/app/page.js",
-      "source_location": "L7",
-      "weight": 1.0,
-      "source": "app_page",
-      "target": "ui_loader",
-      "confidence_score": 1.0
     },
     {
       "relation": "imports_from",
@@ -2132,10 +2103,10 @@
       "relation": "calls",
       "context": "call",
       "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
       "source_file": "src/components/sections/MasterpiecesSection.js",
       "source_location": "L68",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "sections_masterpiecessection_masterpiecessection",
       "target": "context_cartcontext_usecart"
     },
@@ -2209,16 +2180,6 @@
       "confidence_score": 1.0,
       "source": "ui_customcursor",
       "target": "ui_customcursor_customcursor"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "src/components/ui/Loader.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "source": "ui_loader",
-      "target": "ui_loader_loader",
-      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2562,5 +2523,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "8e4056c93e632bfcbc4cbb05a9268c5a56c82f2d"
+  "built_at_commit": "4dc8026a796553bfe7ac0185627aeb9e73de2026"
 }

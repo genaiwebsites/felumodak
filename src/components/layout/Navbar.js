@@ -1,118 +1,64 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
-import { useCart } from '../../context/CartContext';
+import React, { useEffect, useRef, useState } from 'react';
 
-export default function Navbar() {
+const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
-  const [isOpen, setIsOpen] = useState(false);
-  const { setIsCartOpen, getCartCount } = useCart();
-  const cartCount = getCartCount();
+  const [mobileOpen, setMobileOpen] = useState(false);
 
   useEffect(() => {
-    const handleScroll = () => {
-      setScrolled(window.scrollY > 60);
-    };
-    window.addEventListener('scroll', handleScroll, { passive: true });
+    const handleScroll = () => setScrolled(window.scrollY > 60);
+    window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const handleToggle = () => {
-    setIsOpen(!isOpen);
-    document.body.classList.toggle('nav-open', !isOpen);
-  };
-
-  const handleLinkClick = (e, targetId) => {
+  const handleNavClick = (e, sectionId) => {
     e.preventDefault();
-    setIsOpen(false);
-    document.body.classList.remove('nav-open');
-    
-    const target = document.getElementById(targetId);
-    if (target) {
-      const offset = 80;
-      const top = target.getBoundingClientRect().top + window.scrollY - offset;
-      window.scrollTo({ top, behavior: 'smooth' });
+    setMobileOpen(false);
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
   };
 
+  useEffect(() => {
+    document.body.classList.toggle('nav-open', mobileOpen);
+    document.body.style.overflow = mobileOpen ? 'hidden' : '';
+    return () => { document.body.style.overflow = ''; };
+  }, [mobileOpen]);
+
   return (
     <>
-      <nav id="nav" className={scrolled ? 'scrolled' : ''}>
-        <a href="#" onClick={(e) => handleLinkClick(e, 'hero')} className="nav-logo">
+      <nav id="nav" className={`main-nav${scrolled ? ' scrolled' : ''}`}>
+        <a href="#" onClick={(e) => handleNavClick(e, 'hero')} className="nav-logo">
           Felu<span>Modak</span>
         </a>
         <ul className="nav-links">
-          <li>
-            <a href="#legacy" onClick={(e) => handleLinkClick(e, 'legacy')}>
-              Our Story
-            </a>
-          </li>
-          <li>
-            <a href="#sweets" onClick={(e) => handleLinkClick(e, 'sweets')}>
-              Sweets
-            </a>
-          </li>
-          <li>
-            <a href="#heritage" onClick={(e) => handleLinkClick(e, 'heritage')}>
-              Heritage
-            </a>
-          </li>
-          <li>
-            <a href="#contact" onClick={(e) => handleLinkClick(e, 'contact')}>
-              Visit Us
-            </a>
-          </li>
-          <li>
-            <a
-              href="#sweets"
-              onClick={(e) => {
-                e.preventDefault();
-                setIsCartOpen(true);
-              }}
-              data-cursor="Shop"
-            >
-              Order Online {cartCount > 0 ? `(${cartCount})` : ''}
-            </a>
-          </li>
+          <li><a href="#legacy" onClick={(e) => handleNavClick(e, 'legacy')}>Our Story</a></li>
+          <li><a href="#sweets" onClick={(e) => handleNavClick(e, 'sweets')}>Sweets</a></li>
+          <li><a href="#heritage" onClick={(e) => handleNavClick(e, 'heritage')}>Heritage</a></li>
+          <li><a href="#contact" onClick={(e) => handleNavClick(e, 'contact')}>Visit Us</a></li>
+          <li><a href="https://felumodak.com/online/" target="_blank" rel="noopener noreferrer">Order Online</a></li>
         </ul>
         <button
-          className={`hamburger ${isOpen ? 'open' : ''}`}
+          className={`hamburger${mobileOpen ? ' open' : ''}`}
           id="ham"
           aria-label="Menu"
-          onClick={handleToggle}
+          onClick={() => setMobileOpen(v => !v)}
         >
-          <span></span>
-          <span></span>
-          <span></span>
+          <span /><span /><span />
         </button>
       </nav>
-      
-      <nav className={`mobile-nav ${isOpen ? 'open' : ''}`} id="mobileNav">
-        <a href="#legacy" onClick={(e) => handleLinkClick(e, 'legacy')} className="mob-link">
-          Our Story
-        </a>
-        <a href="#sweets" onClick={(e) => handleLinkClick(e, 'sweets')} className="mob-link">
-          Sweets
-        </a>
-        <a href="#heritage" onClick={(e) => handleLinkClick(e, 'heritage')} className="mob-link">
-          Heritage
-        </a>
-        <a href="#contact" onClick={(e) => handleLinkClick(e, 'contact')} className="mob-link">
-          Visit Us
-        </a>
-        <a
-          href="#sweets"
-          onClick={(e) => {
-            e.preventDefault();
-            setIsOpen(false);
-            document.body.classList.remove('nav-open');
-            setIsCartOpen(true);
-          }}
-          className="mob-link"
-        >
-          Order Online {cartCount > 0 ? `(${cartCount})` : ''}
-        </a>
+
+      <nav className={`mobile-nav${mobileOpen ? ' open' : ''}`} id="mobileNav">
+        <a href="#legacy" onClick={(e) => handleNavClick(e, 'legacy')}>Our Story</a>
+        <a href="#sweets" onClick={(e) => handleNavClick(e, 'sweets')}>Sweets</a>
+        <a href="#heritage" onClick={(e) => handleNavClick(e, 'heritage')}>Heritage</a>
+        <a href="#contact" onClick={(e) => handleNavClick(e, 'contact')}>Visit Us</a>
+        <a href="https://felumodak.com/online/" target="_blank" rel="noopener noreferrer">Order Online</a>
       </nav>
     </>
   );
-}
+};
+
+export default Navbar;
