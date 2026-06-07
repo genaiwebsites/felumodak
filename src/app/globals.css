@@ -1187,12 +1187,38 @@ blockquote {
 
 /* ─── FOOTER ─── */
 footer.site-footer {
+  position: relative;
   background: var(--ink);
   padding: 5rem 5vw 2.5rem;
   border-top: 1px solid var(--border);
+  overflow: hidden;
+}
+
+/* Subtle bridge watermark in the background */
+footer.site-footer::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: url('/assets/images/howrah_bridge.png') no-repeat center center / cover;
+  filter: invert(0.93) opacity(0.045);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Ambient sienna/gold glow overlay */
+footer.site-footer::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 100%, rgba(139, 58, 26, 0.08) 0%, transparent 60%),
+              radial-gradient(circle at 10% 20%, rgba(196, 146, 42, 0.03) 0%, transparent 40%);
+  pointer-events: none;
+  z-index: 1;
 }
 
 .footer-inner {
+  position: relative;
+  z-index: 2;
   max-width: 1320px;
   margin: 0 auto;
   display: grid;
@@ -1263,6 +1289,8 @@ footer.site-footer {
 .fl a:hover::after { transform: scaleX(1); transform-origin: left; }
 
 .footer-bottom {
+  position: relative;
+  z-index: 2;
   max-width: 1320px;
   margin: 0 auto;
   display: flex;
