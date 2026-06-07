@@ -80,8 +80,8 @@
     "semantic_hash": ""
   },
   "src/components/sections/HeroSection.js": {
-    "mtime": 1780848709.0960271,
-    "ast_hash": "5b7d8ba83772b6d8e10e7ad3719f979f",
+    "mtime": 1780860431.12633,
+    "ast_hash": "0db13d1b375c68ad0f24a41b7f40dc9a",
     "semantic_hash": ""
   },
   "src/components/sections/LogisticsSection.js": {
@@ -222,6 +222,61 @@
   "public/window.svg": {
     "mtime": 1780482849.670884,
     "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": ""
+  },
+  "skills-lock.json": {
+    "mtime": 1780859946.296095,
+    "ast_hash": "1c28bc9d4877f3edd03eab58748b7305",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gsap-core/SKILL.md": {
+    "mtime": 1780859945.8688087,
+    "ast_hash": "442e31452152be4115b904fad0fa5487",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gsap-frameworks/SKILL.md": {
+    "mtime": 1780859945.8698094,
+    "ast_hash": "fbd4d542ae797fbe3a6eb34682b7d93f",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gsap-performance/SKILL.md": {
+    "mtime": 1780859945.8698094,
+    "ast_hash": "70536cc5c8f8c017be0a4ed8104b9845",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gsap-plugins/SKILL.md": {
+    "mtime": 1780859945.8705294,
+    "ast_hash": "466d8913c840ca9b1d2abdecde473e2c",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gsap-react/SKILL.md": {
+    "mtime": 1780859945.871046,
+    "ast_hash": "daa3ecc330a1ab075aab9475824af231",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gsap-scrolltrigger/SKILL.md": {
+    "mtime": 1780859945.8715656,
+    "ast_hash": "9aa0d62e6b138cee09bafe595da0319f",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gsap-timeline/SKILL.md": {
+    "mtime": 1780859945.8721235,
+    "ast_hash": "07da4abbe71ed29f1babd34be3b960b3",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gsap-utils/SKILL.md": {
+    "mtime": 1780859945.8726468,
+    "ast_hash": "ef6b75ec2464a7d95a7bb5cfa88cfa79",
+    "semantic_hash": ""
+  },
+  "public/assets/images/kolkata_street.jpg": {
+    "mtime": 1780859408.8328116,
+    "ast_hash": "3b79eb69fc5989cfc1e376788560ec07",
+    "semantic_hash": ""
+  },
+  "public/assets/images/kolkata_street_color.jpg": {
+    "mtime": 1780859659.0344994,
+    "ast_hash": "2f54462e93fbd61a20a747ede7baeb01",
     "semantic_hash": ""
   }
 }

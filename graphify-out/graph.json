@@ -162,7 +162,7 @@
       "source_file": "package.json",
       "source_location": "L11",
       "id": "package_dependencies",
-      "community": 3,
+      "community": 1,
       "norm_label": "dependencies"
     },
     {
@@ -171,7 +171,7 @@
       "source_file": "package.json",
       "source_location": "L12",
       "id": "package_dependencies_react_three_drei",
-      "community": 3,
+      "community": 1,
       "norm_label": "@react-three/drei"
     },
     {
@@ -180,7 +180,7 @@
       "source_file": "package.json",
       "source_location": "L13",
       "id": "package_dependencies_react_three_fiber",
-      "community": 3,
+      "community": 1,
       "norm_label": "@react-three/fiber"
     },
     {
@@ -189,7 +189,7 @@
       "source_file": "package.json",
       "source_location": "L14",
       "id": "package_dependencies_canvas_confetti",
-      "community": 3,
+      "community": 1,
       "norm_label": "canvas-confetti"
     },
     {
@@ -198,7 +198,7 @@
       "source_file": "package.json",
       "source_location": "L15",
       "id": "package_dependencies_framer_motion",
-      "community": 3,
+      "community": 1,
       "norm_label": "framer-motion"
     },
     {
@@ -207,7 +207,7 @@
       "source_file": "package.json",
       "source_location": "L16",
       "id": "package_dependencies_gsap",
-      "community": 3,
+      "community": 1,
       "norm_label": "gsap"
     },
     {
@@ -216,7 +216,7 @@
       "source_file": "package.json",
       "source_location": "L17",
       "id": "package_dependencies_lucide_react",
-      "community": 3,
+      "community": 1,
       "norm_label": "lucide-react"
     },
     {
@@ -225,7 +225,7 @@
       "source_file": "package.json",
       "source_location": "L18",
       "id": "package_dependencies_next",
-      "community": 3,
+      "community": 1,
       "norm_label": "next"
     },
     {
@@ -234,7 +234,7 @@
       "source_file": "package.json",
       "source_location": "L19",
       "id": "package_dependencies_react",
-      "community": 3,
+      "community": 1,
       "norm_label": "react"
     },
     {
@@ -243,7 +243,7 @@
       "source_file": "package.json",
       "source_location": "L20",
       "id": "package_dependencies_react_dom",
-      "community": 3,
+      "community": 1,
       "norm_label": "react-dom"
     },
     {
@@ -252,7 +252,7 @@
       "source_file": "package.json",
       "source_location": "L21",
       "id": "package_dependencies_three",
-      "community": 3,
+      "community": 1,
       "norm_label": "three"
     },
     {
@@ -317,6 +317,393 @@
       "id": "postcss_config_config",
       "community": 17,
       "norm_label": "config"
+    },
+    {
+      "label": "skills-lock.json",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L1",
+      "id": "skills_lock",
+      "community": 3,
+      "norm_label": "skills-lock.json"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L2",
+      "id": "skills_lock_version",
+      "community": 3,
+      "norm_label": "version"
+    },
+    {
+      "label": "skills",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L3",
+      "id": "skills_lock_skills",
+      "community": 3,
+      "norm_label": "skills"
+    },
+    {
+      "label": "gsap-core",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L4",
+      "id": "skills_lock_skills_gsap_core",
+      "community": 3,
+      "norm_label": "gsap-core"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L5",
+      "id": "skills_lock_gsap_core_source",
+      "community": 3,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L6",
+      "id": "skills_lock_gsap_core_sourcetype",
+      "community": 3,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L7",
+      "id": "skills_lock_gsap_core_skillpath",
+      "community": 3,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L8",
+      "id": "skills_lock_gsap_core_computedhash",
+      "community": 3,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "gsap-frameworks",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L10",
+      "id": "skills_lock_skills_gsap_frameworks",
+      "community": 3,
+      "norm_label": "gsap-frameworks"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L11",
+      "id": "skills_lock_gsap_frameworks_source",
+      "community": 3,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L12",
+      "id": "skills_lock_gsap_frameworks_sourcetype",
+      "community": 3,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L13",
+      "id": "skills_lock_gsap_frameworks_skillpath",
+      "community": 3,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L14",
+      "id": "skills_lock_gsap_frameworks_computedhash",
+      "community": 3,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "gsap-performance",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L16",
+      "id": "skills_lock_skills_gsap_performance",
+      "community": 3,
+      "norm_label": "gsap-performance"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L17",
+      "id": "skills_lock_gsap_performance_source",
+      "community": 3,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L18",
+      "id": "skills_lock_gsap_performance_sourcetype",
+      "community": 3,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L19",
+      "id": "skills_lock_gsap_performance_skillpath",
+      "community": 3,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L20",
+      "id": "skills_lock_gsap_performance_computedhash",
+      "community": 3,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "gsap-plugins",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L22",
+      "id": "skills_lock_skills_gsap_plugins",
+      "community": 29,
+      "norm_label": "gsap-plugins"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L23",
+      "id": "skills_lock_gsap_plugins_source",
+      "community": 29,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L24",
+      "id": "skills_lock_gsap_plugins_sourcetype",
+      "community": 29,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L25",
+      "id": "skills_lock_gsap_plugins_skillpath",
+      "community": 29,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L26",
+      "id": "skills_lock_gsap_plugins_computedhash",
+      "community": 29,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "gsap-react",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L28",
+      "id": "skills_lock_skills_gsap_react",
+      "community": 3,
+      "norm_label": "gsap-react"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L29",
+      "id": "skills_lock_gsap_react_source",
+      "community": 3,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L30",
+      "id": "skills_lock_gsap_react_sourcetype",
+      "community": 3,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L31",
+      "id": "skills_lock_gsap_react_skillpath",
+      "community": 3,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L32",
+      "id": "skills_lock_gsap_react_computedhash",
+      "community": 3,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "gsap-scrolltrigger",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L34",
+      "id": "skills_lock_skills_gsap_scrolltrigger",
+      "community": 3,
+      "norm_label": "gsap-scrolltrigger"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L35",
+      "id": "skills_lock_gsap_scrolltrigger_source",
+      "community": 3,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L36",
+      "id": "skills_lock_gsap_scrolltrigger_sourcetype",
+      "community": 3,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L37",
+      "id": "skills_lock_gsap_scrolltrigger_skillpath",
+      "community": 3,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L38",
+      "id": "skills_lock_gsap_scrolltrigger_computedhash",
+      "community": 3,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "gsap-timeline",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L40",
+      "id": "skills_lock_skills_gsap_timeline",
+      "community": 3,
+      "norm_label": "gsap-timeline"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L41",
+      "id": "skills_lock_gsap_timeline_source",
+      "community": 3,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L42",
+      "id": "skills_lock_gsap_timeline_sourcetype",
+      "community": 3,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L43",
+      "id": "skills_lock_gsap_timeline_skillpath",
+      "community": 3,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L44",
+      "id": "skills_lock_gsap_timeline_computedhash",
+      "community": 3,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "gsap-utils",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L46",
+      "id": "skills_lock_skills_gsap_utils",
+      "community": 3,
+      "norm_label": "gsap-utils"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L47",
+      "id": "skills_lock_gsap_utils_source",
+      "community": 3,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L48",
+      "id": "skills_lock_gsap_utils_sourcetype",
+      "community": 3,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L49",
+      "id": "skills_lock_gsap_utils_skillpath",
+      "community": 3,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L50",
+      "id": "skills_lock_gsap_utils_computedhash",
+      "community": 3,
+      "norm_label": "computedhash"
     },
     {
       "label": "layout.js",
@@ -468,7 +855,7 @@
       "source_file": "src/components/sections/ContactSection.js",
       "source_location": "L1",
       "id": "sections_contactsection",
-      "community": 7,
+      "community": 0,
       "norm_label": "contactsection.js"
     },
     {
@@ -477,7 +864,7 @@
       "source_file": "src/components/sections/ContactSection.js",
       "source_location": "L5",
       "id": "sections_contactsection_contactsection",
-      "community": 7,
+      "community": 0,
       "norm_label": "contactsection()"
     },
     {
@@ -540,7 +927,7 @@
       "source_file": "src/components/sections/HeritageSection.js",
       "source_location": "L1",
       "id": "sections_heritagesection",
-      "community": 20,
+      "community": 0,
       "norm_label": "heritagesection.js"
     },
     {
@@ -549,7 +936,7 @@
       "source_file": "src/components/sections/HeritageSection.js",
       "source_location": "L5",
       "id": "sections_heritagesection_heritage_timeline",
-      "community": 20,
+      "community": 0,
       "norm_label": "heritage_timeline"
     },
     {
@@ -558,7 +945,7 @@
       "source_file": "src/components/sections/HeritageSection.js",
       "source_location": "L28",
       "id": "sections_heritagesection_heritagesection",
-      "community": 20,
+      "community": 0,
       "norm_label": "heritagesection()"
     },
     {
@@ -585,16 +972,16 @@
       "source_file": "src/components/sections/HeroSection.js",
       "source_location": "L1",
       "id": "sections_herosection",
-      "community": 7,
+      "community": 0,
       "norm_label": "herosection.js"
     },
     {
       "label": "HeroSection()",
       "file_type": "code",
       "source_file": "src/components/sections/HeroSection.js",
-      "source_location": "L5",
+      "source_location": "L6",
       "id": "sections_herosection_herosection",
-      "community": 7,
+      "community": 0,
       "norm_label": "herosection()"
     },
     {
@@ -738,7 +1125,7 @@
       "source_file": "src/components/ui/AiImage.js",
       "source_location": "L1",
       "id": "ui_aiimage",
-      "community": 21,
+      "community": 0,
       "norm_label": "aiimage.js"
     },
     {
@@ -747,7 +1134,7 @@
       "source_file": "src/components/ui/AiImage.js",
       "source_location": "L7",
       "id": "ui_aiimage_aiimage",
-      "community": 21,
+      "community": 0,
       "norm_label": "aiimage()"
     },
     {
@@ -774,7 +1161,7 @@
       "source_file": "src/components/ui/TopographicBackground.js",
       "source_location": "L1",
       "id": "ui_topographicbackground",
-      "community": 7,
+      "community": 0,
       "norm_label": "topographicbackground.js"
     },
     {
@@ -783,7 +1170,7 @@
       "source_file": "src/components/ui/TopographicBackground.js",
       "source_location": "L6",
       "id": "ui_topographicbackground_topographicbackground",
-      "community": 7,
+      "community": 0,
       "norm_label": "topographicbackground()"
     },
     {
@@ -938,6 +1325,1374 @@
       "id": "data_menudata_timeline",
       "community": 2,
       "norm_label": "timeline"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L1",
+      "id": "gsap_core_skill",
+      "community": 21,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "GSAP Core",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L7",
+      "id": "gsap_core_skill_gsap_core",
+      "community": 21,
+      "norm_label": "gsap core"
+    },
+    {
+      "label": "When to Use This Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L9",
+      "id": "gsap_core_skill_when_to_use_this_skill",
+      "community": 21,
+      "norm_label": "when to use this skill"
+    },
+    {
+      "label": "When to Use GSAP",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L17",
+      "id": "gsap_core_skill_when_to_use_gsap",
+      "community": 21,
+      "norm_label": "when to use gsap"
+    },
+    {
+      "label": "Prefer GSAP Instead of CSS Animations When",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L32",
+      "id": "gsap_core_skill_prefer_gsap_instead_of_css_animations_when",
+      "community": 21,
+      "norm_label": "prefer gsap instead of css animations when"
+    },
+    {
+      "label": "When to recommend GSAP over other JavaScript animation libraries",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L42",
+      "id": "gsap_core_skill_when_to_recommend_gsap_over_other_javascript_animation_libraries",
+      "community": 21,
+      "norm_label": "when to recommend gsap over other javascript animation libraries"
+    },
+    {
+      "label": "Core Tween Methods",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L46",
+      "id": "gsap_core_skill_core_tween_methods",
+      "community": 21,
+      "norm_label": "core tween methods"
+    },
+    {
+      "label": "Common vars",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L55",
+      "id": "gsap_core_skill_common_vars",
+      "community": 21,
+      "norm_label": "common vars"
+    },
+    {
+      "label": "Transforms and CSS properties",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L67",
+      "id": "gsap_core_skill_transforms_and_css_properties",
+      "community": 21,
+      "norm_label": "transforms and css properties"
+    },
+    {
+      "label": "Targets",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L97",
+      "id": "gsap_core_skill_targets",
+      "community": 21,
+      "norm_label": "targets"
+    },
+    {
+      "label": "Stagger",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L101",
+      "id": "gsap_core_skill_stagger",
+      "community": 21,
+      "norm_label": "stagger"
+    },
+    {
+      "label": "Learn More",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L112",
+      "id": "gsap_core_skill_learn_more",
+      "community": 21,
+      "norm_label": "learn more"
+    },
+    {
+      "label": "Easing",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L116",
+      "id": "gsap_core_skill_easing",
+      "community": 21,
+      "norm_label": "easing"
+    },
+    {
+      "label": "Custom: use CustomEase (plugin)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L145",
+      "id": "gsap_core_skill_custom_use_customease_plugin",
+      "community": 21,
+      "norm_label": "custom: use customease (plugin)"
+    },
+    {
+      "label": "Returning and Controlling Tweens",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L163",
+      "id": "gsap_core_skill_returning_and_controlling_tweens",
+      "community": 21,
+      "norm_label": "returning and controlling tweens"
+    },
+    {
+      "label": "Function-based values",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L178",
+      "id": "gsap_core_skill_function_based_values",
+      "community": 21,
+      "norm_label": "function-based values"
+    },
+    {
+      "label": "Relative values",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L188",
+      "id": "gsap_core_skill_relative_values",
+      "community": 21,
+      "norm_label": "relative values"
+    },
+    {
+      "label": "Defaults",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L198",
+      "id": "gsap_core_skill_defaults",
+      "community": 21,
+      "norm_label": "defaults"
+    },
+    {
+      "label": "Accessibility and responsive (gsap.matchMedia())",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L206",
+      "id": "gsap_core_skill_accessibility_and_responsive_gsap_matchmedia",
+      "community": 21,
+      "norm_label": "accessibility and responsive (gsap.matchmedia())"
+    },
+    {
+      "label": "Official GSAP best practices",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L239",
+      "id": "gsap_core_skill_official_gsap_best_practices",
+      "community": 21,
+      "norm_label": "official gsap best practices"
+    },
+    {
+      "label": "Do Not",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L248",
+      "id": "gsap_core_skill_do_not",
+      "community": 21,
+      "norm_label": "do not"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L1",
+      "id": "gsap_frameworks_skill",
+      "community": 24,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "GSAP with Vue, Svelte, and Other Frameworks",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L7",
+      "id": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "community": 24,
+      "norm_label": "gsap with vue, svelte, and other frameworks"
+    },
+    {
+      "label": "When to Use This Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L9",
+      "id": "gsap_frameworks_skill_when_to_use_this_skill",
+      "community": 24,
+      "norm_label": "when to use this skill"
+    },
+    {
+      "label": "Principles (All Frameworks)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L15",
+      "id": "gsap_frameworks_skill_principles_all_frameworks",
+      "community": 24,
+      "norm_label": "principles (all frameworks)"
+    },
+    {
+      "label": "Vue 3 (Composition API)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L21",
+      "id": "gsap_frameworks_skill_vue_3_composition_api",
+      "community": 24,
+      "norm_label": "vue 3 (composition api)"
+    },
+    {
+      "label": "Vue 3 (script setup)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L58",
+      "id": "gsap_frameworks_skill_vue_3_script_setup",
+      "community": 24,
+      "norm_label": "vue 3 (script setup)"
+    },
+    {
+      "label": "Nuxt 4",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L92",
+      "id": "gsap_frameworks_skill_nuxt_4",
+      "community": 24,
+      "norm_label": "nuxt 4"
+    },
+    {
+      "label": "Svelte",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L203",
+      "id": "gsap_frameworks_skill_svelte",
+      "community": 24,
+      "norm_label": "svelte"
+    },
+    {
+      "label": "Scoping Selectors",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L234",
+      "id": "gsap_frameworks_skill_scoping_selectors",
+      "community": 24,
+      "norm_label": "scoping selectors"
+    },
+    {
+      "label": "ScrollTrigger Cleanup",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L241",
+      "id": "gsap_frameworks_skill_scrolltrigger_cleanup",
+      "community": 24,
+      "norm_label": "scrolltrigger cleanup"
+    },
+    {
+      "label": "When to Create vs Kill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L248",
+      "id": "gsap_frameworks_skill_when_to_create_vs_kill",
+      "community": 24,
+      "norm_label": "when to create vs kill"
+    },
+    {
+      "label": "Do Not",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L257",
+      "id": "gsap_frameworks_skill_do_not",
+      "community": 24,
+      "norm_label": "do not"
+    },
+    {
+      "label": "Learn More",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L264",
+      "id": "gsap_frameworks_skill_learn_more",
+      "community": 24,
+      "norm_label": "learn more"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L1",
+      "id": "gsap_performance_skill",
+      "community": 26,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "GSAP Performance",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L7",
+      "id": "gsap_performance_skill_gsap_performance",
+      "community": 26,
+      "norm_label": "gsap performance"
+    },
+    {
+      "label": "When to Use This Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L9",
+      "id": "gsap_performance_skill_when_to_use_this_skill",
+      "community": 26,
+      "norm_label": "when to use this skill"
+    },
+    {
+      "label": "Prefer Transform and Opacity",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L15",
+      "id": "gsap_performance_skill_prefer_transform_and_opacity",
+      "community": 26,
+      "norm_label": "prefer transform and opacity"
+    },
+    {
+      "label": "will-change",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L24",
+      "id": "gsap_performance_skill_will_change",
+      "community": 26,
+      "norm_label": "will-change"
+    },
+    {
+      "label": "Batch Reads and Writes",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L32",
+      "id": "gsap_performance_skill_batch_reads_and_writes",
+      "community": 26,
+      "norm_label": "batch reads and writes"
+    },
+    {
+      "label": "Many Elements (Stagger, Lists)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L36",
+      "id": "gsap_performance_skill_many_elements_stagger_lists",
+      "community": 26,
+      "norm_label": "many elements (stagger, lists)"
+    },
+    {
+      "label": "Frequently updated properties (e.g. mouse followers)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L42",
+      "id": "gsap_performance_skill_frequently_updated_properties_e_g_mouse_followers",
+      "community": 26,
+      "norm_label": "frequently updated properties (e.g. mouse followers)"
+    },
+    {
+      "label": "ScrollTrigger and Performance",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L56",
+      "id": "gsap_performance_skill_scrolltrigger_and_performance",
+      "community": 26,
+      "norm_label": "scrolltrigger and performance"
+    },
+    {
+      "label": "Reduce Simultaneous Work",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L62",
+      "id": "gsap_performance_skill_reduce_simultaneous_work",
+      "community": 26,
+      "norm_label": "reduce simultaneous work"
+    },
+    {
+      "label": "Best practices",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L67",
+      "id": "gsap_performance_skill_best_practices",
+      "community": 26,
+      "norm_label": "best practices"
+    },
+    {
+      "label": "Do Not",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L74",
+      "id": "gsap_performance_skill_do_not",
+      "community": 26,
+      "norm_label": "do not"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L1",
+      "id": "gsap_plugins_skill",
+      "community": 7,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "GSAP Plugins",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L7",
+      "id": "gsap_plugins_skill_gsap_plugins",
+      "community": 7,
+      "norm_label": "gsap plugins"
+    },
+    {
+      "label": "When to Use This Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L9",
+      "id": "gsap_plugins_skill_when_to_use_this_skill",
+      "community": 7,
+      "norm_label": "when to use this skill"
+    },
+    {
+      "label": "Licensing & Install (important)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L15",
+      "id": "gsap_plugins_skill_licensing_install_important",
+      "community": 7,
+      "norm_label": "licensing & install (important)"
+    },
+    {
+      "label": "Registering Plugins",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L22",
+      "id": "gsap_plugins_skill_registering_plugins",
+      "community": 7,
+      "norm_label": "registering plugins"
+    },
+    {
+      "label": "Scroll",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L38",
+      "id": "gsap_plugins_skill_scroll",
+      "community": 7,
+      "norm_label": "scroll"
+    },
+    {
+      "label": "ScrollToPlugin",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L40",
+      "id": "gsap_plugins_skill_scrolltoplugin",
+      "community": 7,
+      "norm_label": "scrolltoplugin"
+    },
+    {
+      "label": "ScrollSmoother",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L60",
+      "id": "gsap_plugins_skill_scrollsmoother",
+      "community": 7,
+      "norm_label": "scrollsmoother"
+    },
+    {
+      "label": "DOM / UI",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L75",
+      "id": "gsap_plugins_skill_dom_ui",
+      "community": 28,
+      "norm_label": "dom / ui"
+    },
+    {
+      "label": "Flip",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L77",
+      "id": "gsap_plugins_skill_flip",
+      "community": 28,
+      "norm_label": "flip"
+    },
+    {
+      "label": "More information",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L99",
+      "id": "gsap_plugins_skill_more_information",
+      "community": 28,
+      "norm_label": "more information"
+    },
+    {
+      "label": "Draggable",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L103",
+      "id": "gsap_plugins_skill_draggable",
+      "community": 28,
+      "norm_label": "draggable"
+    },
+    {
+      "label": "Inertia (InertiaPlugin)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L126",
+      "id": "gsap_plugins_skill_inertia_inertiaplugin",
+      "community": 28,
+      "norm_label": "inertia (inertiaplugin)"
+    },
+    {
+      "label": "Observer",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L146",
+      "id": "gsap_plugins_skill_observer",
+      "community": 28,
+      "norm_label": "observer"
+    },
+    {
+      "label": "Text",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L172",
+      "id": "gsap_plugins_skill_text",
+      "community": 7,
+      "norm_label": "text"
+    },
+    {
+      "label": "SplitText",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L174",
+      "id": "gsap_plugins_skill_splittext",
+      "community": 7,
+      "norm_label": "splittext"
+    },
+    {
+      "label": "ScrambleText",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L222",
+      "id": "gsap_plugins_skill_scrambletext",
+      "community": 7,
+      "norm_label": "scrambletext"
+    },
+    {
+      "label": "SVG",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L235",
+      "id": "gsap_plugins_skill_svg",
+      "community": 7,
+      "norm_label": "svg"
+    },
+    {
+      "label": "DrawSVG (DrawSVGPlugin)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L237",
+      "id": "gsap_plugins_skill_drawsvg_drawsvgplugin",
+      "community": 7,
+      "norm_label": "drawsvg (drawsvgplugin)"
+    },
+    {
+      "label": "MorphSVG (MorphSVGPlugin)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L260",
+      "id": "gsap_plugins_skill_morphsvg_morphsvgplugin",
+      "community": 7,
+      "norm_label": "morphsvg (morphsvgplugin)"
+    },
+    {
+      "label": "MotionPath (MotionPathPlugin)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L303",
+      "id": "gsap_plugins_skill_motionpath_motionpathplugin",
+      "community": 7,
+      "norm_label": "motionpath (motionpathplugin)"
+    },
+    {
+      "label": "MotionPathHelper",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L326",
+      "id": "gsap_plugins_skill_motionpathhelper",
+      "community": 7,
+      "norm_label": "motionpathhelper"
+    },
+    {
+      "label": "Easing",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L337",
+      "id": "gsap_plugins_skill_easing",
+      "community": 7,
+      "norm_label": "easing"
+    },
+    {
+      "label": "CustomEase",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L339",
+      "id": "gsap_plugins_skill_customease",
+      "community": 7,
+      "norm_label": "customease"
+    },
+    {
+      "label": "EasePack",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L349",
+      "id": "gsap_plugins_skill_easepack",
+      "community": 7,
+      "norm_label": "easepack"
+    },
+    {
+      "label": "CustomWiggle",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L353",
+      "id": "gsap_plugins_skill_customwiggle",
+      "community": 7,
+      "norm_label": "customwiggle"
+    },
+    {
+      "label": "CustomBounce",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L357",
+      "id": "gsap_plugins_skill_custombounce",
+      "community": 7,
+      "norm_label": "custombounce"
+    },
+    {
+      "label": "Physics",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L361",
+      "id": "gsap_plugins_skill_physics",
+      "community": 7,
+      "norm_label": "physics"
+    },
+    {
+      "label": "Physics2D (Physics2DPlugin)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L363",
+      "id": "gsap_plugins_skill_physics2d_physics2dplugin",
+      "community": 7,
+      "norm_label": "physics2d (physics2dplugin)"
+    },
+    {
+      "label": "PhysicsProps (PhysicsPropsPlugin)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L380",
+      "id": "gsap_plugins_skill_physicsprops_physicspropsplugin",
+      "community": 7,
+      "norm_label": "physicsprops (physicspropsplugin)"
+    },
+    {
+      "label": "Development",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L396",
+      "id": "gsap_plugins_skill_development",
+      "community": 7,
+      "norm_label": "development"
+    },
+    {
+      "label": "GSDevTools",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L398",
+      "id": "gsap_plugins_skill_gsdevtools",
+      "community": 7,
+      "norm_label": "gsdevtools"
+    },
+    {
+      "label": "Other",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L407",
+      "id": "gsap_plugins_skill_other",
+      "community": 7,
+      "norm_label": "other"
+    },
+    {
+      "label": "Pixi (PixiPlugin)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L409",
+      "id": "gsap_plugins_skill_pixi_pixiplugin",
+      "community": 7,
+      "norm_label": "pixi (pixiplugin)"
+    },
+    {
+      "label": "Best practices",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L420",
+      "id": "gsap_plugins_skill_best_practices",
+      "community": 7,
+      "norm_label": "best practices"
+    },
+    {
+      "label": "Do Not",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L426",
+      "id": "gsap_plugins_skill_do_not",
+      "community": 7,
+      "norm_label": "do not"
+    },
+    {
+      "label": "Learn More",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L431",
+      "id": "gsap_plugins_skill_learn_more",
+      "community": 7,
+      "norm_label": "learn more"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L1",
+      "id": "gsap_react_skill",
+      "community": 25,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "GSAP with React",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L7",
+      "id": "gsap_react_skill_gsap_with_react",
+      "community": 25,
+      "norm_label": "gsap with react"
+    },
+    {
+      "label": "When to Use This Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L9",
+      "id": "gsap_react_skill_when_to_use_this_skill",
+      "community": 25,
+      "norm_label": "when to use this skill"
+    },
+    {
+      "label": "Installation",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L15",
+      "id": "gsap_react_skill_installation",
+      "community": 25,
+      "norm_label": "installation"
+    },
+    {
+      "label": "Prefer the useGSAP() Hook",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L24",
+      "id": "gsap_react_skill_prefer_the_usegsap_hook",
+      "community": 25,
+      "norm_label": "prefer the usegsap() hook"
+    },
+    {
+      "label": "Refs for Targets",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L45",
+      "id": "gsap_react_skill_refs_for_targets",
+      "community": 25,
+      "norm_label": "refs for targets"
+    },
+    {
+      "label": "Dependency array, scope, and revertOnUpdate",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L49",
+      "id": "gsap_react_skill_dependency_array_scope_and_revertonupdate",
+      "community": 25,
+      "norm_label": "dependency array, scope, and revertonupdate"
+    },
+    {
+      "label": "gsap.context() in useEffect (when useGSAP isn't used)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L63",
+      "id": "gsap_react_skill_gsap_context_in_useeffect_when_usegsap_isn_t_used",
+      "community": 25,
+      "norm_label": "gsap.context() in useeffect (when usegsap isn't used)"
+    },
+    {
+      "label": "Context-Safe Callbacks",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L80",
+      "id": "gsap_react_skill_context_safe_callbacks",
+      "community": 25,
+      "norm_label": "context-safe callbacks"
+    },
+    {
+      "label": "Server-Side Rendering (Next.js, etc.)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L113",
+      "id": "gsap_react_skill_server_side_rendering_next_js_etc",
+      "community": 25,
+      "norm_label": "server-side rendering (next.js, etc.)"
+    },
+    {
+      "label": "Best practices",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L120",
+      "id": "gsap_react_skill_best_practices",
+      "community": 25,
+      "norm_label": "best practices"
+    },
+    {
+      "label": "Do Not",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L126",
+      "id": "gsap_react_skill_do_not",
+      "community": 25,
+      "norm_label": "do not"
+    },
+    {
+      "label": "Learn More",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L134",
+      "id": "gsap_react_skill_learn_more",
+      "community": 25,
+      "norm_label": "learn more"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L1",
+      "id": "gsap_scrolltrigger_skill",
+      "community": 22,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "GSAP ScrollTrigger",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L7",
+      "id": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "community": 22,
+      "norm_label": "gsap scrolltrigger"
+    },
+    {
+      "label": "When to Use This Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L9",
+      "id": "gsap_scrolltrigger_skill_when_to_use_this_skill",
+      "community": 22,
+      "norm_label": "when to use this skill"
+    },
+    {
+      "label": "Registering the Plugin",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L15",
+      "id": "gsap_scrolltrigger_skill_registering_the_plugin",
+      "community": 22,
+      "norm_label": "registering the plugin"
+    },
+    {
+      "label": "Basic Trigger",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L23",
+      "id": "gsap_scrolltrigger_skill_basic_trigger",
+      "community": 22,
+      "norm_label": "basic trigger"
+    },
+    {
+      "label": "Key config options",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L42",
+      "id": "gsap_scrolltrigger_skill_key_config_options",
+      "community": 22,
+      "norm_label": "key config options"
+    },
+    {
+      "label": "ScrollTrigger.batch()",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L79",
+      "id": "gsap_scrolltrigger_skill_scrolltrigger_batch",
+      "community": 22,
+      "norm_label": "scrolltrigger.batch()"
+    },
+    {
+      "label": "ScrollTrigger.scrollerProxy()",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L120",
+      "id": "gsap_scrolltrigger_skill_scrolltrigger_scrollerproxy",
+      "community": 22,
+      "norm_label": "scrolltrigger.scrollerproxy()"
+    },
+    {
+      "label": "Scrub",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L151",
+      "id": "gsap_scrolltrigger_skill_scrub",
+      "community": 22,
+      "norm_label": "scrub"
+    },
+    {
+      "label": "Pinning",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L169",
+      "id": "gsap_scrolltrigger_skill_pinning",
+      "community": 22,
+      "norm_label": "pinning"
+    },
+    {
+      "label": "Markers (Development)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L186",
+      "id": "gsap_scrolltrigger_skill_markers_development",
+      "community": 22,
+      "norm_label": "markers (development)"
+    },
+    {
+      "label": "Timeline + ScrollTrigger",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L201",
+      "id": "gsap_scrolltrigger_skill_timeline_scrolltrigger",
+      "community": 22,
+      "norm_label": "timeline + scrolltrigger"
+    },
+    {
+      "label": "Horizontal scroll (containerAnimation)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L220",
+      "id": "gsap_scrolltrigger_skill_horizontal_scroll_containeranimation",
+      "community": 22,
+      "norm_label": "horizontal scroll (containeranimation)"
+    },
+    {
+      "label": "Refresh and Cleanup",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L259",
+      "id": "gsap_scrolltrigger_skill_refresh_and_cleanup",
+      "community": 22,
+      "norm_label": "refresh and cleanup"
+    },
+    {
+      "label": "Official GSAP best practices",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L272",
+      "id": "gsap_scrolltrigger_skill_official_gsap_best_practices",
+      "community": 22,
+      "norm_label": "official gsap best practices"
+    },
+    {
+      "label": "Do Not",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L281",
+      "id": "gsap_scrolltrigger_skill_do_not",
+      "community": 22,
+      "norm_label": "do not"
+    },
+    {
+      "label": "Learn More",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L293",
+      "id": "gsap_scrolltrigger_skill_learn_more",
+      "community": 22,
+      "norm_label": "learn more"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L1",
+      "id": "gsap_timeline_skill",
+      "community": 27,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "GSAP Timeline",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L7",
+      "id": "gsap_timeline_skill_gsap_timeline",
+      "community": 27,
+      "norm_label": "gsap timeline"
+    },
+    {
+      "label": "When to Use This Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L9",
+      "id": "gsap_timeline_skill_when_to_use_this_skill",
+      "community": 27,
+      "norm_label": "when to use this skill"
+    },
+    {
+      "label": "Creating a Timeline",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L15",
+      "id": "gsap_timeline_skill_creating_a_timeline",
+      "community": 27,
+      "norm_label": "creating a timeline"
+    },
+    {
+      "label": "Position Parameter",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L26",
+      "id": "gsap_timeline_skill_position_parameter",
+      "community": 27,
+      "norm_label": "position parameter"
+    },
+    {
+      "label": "Timeline Defaults",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L44",
+      "id": "gsap_timeline_skill_timeline_defaults",
+      "community": 27,
+      "norm_label": "timeline defaults"
+    },
+    {
+      "label": "Timeline Options (constructor)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L53",
+      "id": "gsap_timeline_skill_timeline_options_constructor",
+      "community": 27,
+      "norm_label": "timeline options (constructor)"
+    },
+    {
+      "label": "Labels",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L60",
+      "id": "gsap_timeline_skill_labels",
+      "community": 27,
+      "norm_label": "labels"
+    },
+    {
+      "label": "Nesting Timelines",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L73",
+      "id": "gsap_timeline_skill_nesting_timelines",
+      "community": 27,
+      "norm_label": "nesting timelines"
+    },
+    {
+      "label": "Controlling Playback",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L85",
+      "id": "gsap_timeline_skill_controlling_playback",
+      "community": 27,
+      "norm_label": "controlling playback"
+    },
+    {
+      "label": "Official GSAP Best practices",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L94",
+      "id": "gsap_timeline_skill_official_gsap_best_practices",
+      "community": 27,
+      "norm_label": "official gsap best practices"
+    },
+    {
+      "label": "Do Not",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L102",
+      "id": "gsap_timeline_skill_do_not",
+      "community": 27,
+      "norm_label": "do not"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L1",
+      "id": "gsap_utils_skill",
+      "community": 20,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "gsap.utils",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L7",
+      "id": "gsap_utils_skill_gsap_utils",
+      "community": 20,
+      "norm_label": "gsap.utils"
+    },
+    {
+      "label": "When to Use This Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L9",
+      "id": "gsap_utils_skill_when_to_use_this_skill",
+      "community": 20,
+      "norm_label": "when to use this skill"
+    },
+    {
+      "label": "Overview",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L15",
+      "id": "gsap_utils_skill_overview",
+      "community": 20,
+      "norm_label": "overview"
+    },
+    {
+      "label": "Clamping and Ranges",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L31",
+      "id": "gsap_utils_skill_clamping_and_ranges",
+      "community": 20,
+      "norm_label": "clamping and ranges"
+    },
+    {
+      "label": "clamp(min, max, value?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L33",
+      "id": "gsap_utils_skill_clamp_min_max_value",
+      "community": 20,
+      "norm_label": "clamp(min, max, value?)"
+    },
+    {
+      "label": "mapRange(inMin, inMax, outMin, outMax, value?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L45",
+      "id": "gsap_utils_skill_maprange_inmin_inmax_outmin_outmax_value",
+      "community": 20,
+      "norm_label": "maprange(inmin, inmax, outmin, outmax, value?)"
+    },
+    {
+      "label": "normalize(min, max, value?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L57",
+      "id": "gsap_utils_skill_normalize_min_max_value",
+      "community": 20,
+      "norm_label": "normalize(min, max, value?)"
+    },
+    {
+      "label": "interpolate(start, end, progress?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L69",
+      "id": "gsap_utils_skill_interpolate_start_end_progress",
+      "community": 20,
+      "norm_label": "interpolate(start, end, progress?)"
+    },
+    {
+      "label": "Random and Snap",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L82",
+      "id": "gsap_utils_skill_random_and_snap",
+      "community": 20,
+      "norm_label": "random and snap"
+    },
+    {
+      "label": "random(minimum, maximum[, snapIncrement, returnFunction]) / random(array[, returnFunction])",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L84",
+      "id": "gsap_utils_skill_random_minimum_maximum_snapincrement_returnfunction_random_array_returnfunction",
+      "community": 20,
+      "norm_label": "random(minimum, maximum[, snapincrement, returnfunction]) / random(array[, returnfunction])"
+    },
+    {
+      "label": "snap(snapTo, value?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L111",
+      "id": "gsap_utils_skill_snap_snapto_value",
+      "community": 20,
+      "norm_label": "snap(snapto, value?)"
+    },
+    {
+      "label": "shuffle(array)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L130",
+      "id": "gsap_utils_skill_shuffle_array",
+      "community": 20,
+      "norm_label": "shuffle(array)"
+    },
+    {
+      "label": "distribute(config)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L138",
+      "id": "gsap_utils_skill_distribute_config",
+      "community": 20,
+      "norm_label": "distribute(config)"
+    },
+    {
+      "label": "Units and Parsing",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L182",
+      "id": "gsap_utils_skill_units_and_parsing",
+      "community": 20,
+      "norm_label": "units and parsing"
+    },
+    {
+      "label": "getUnit(value)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L184",
+      "id": "gsap_utils_skill_getunit_value",
+      "community": 20,
+      "norm_label": "getunit(value)"
+    },
+    {
+      "label": "unitize(value, unit)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L194",
+      "id": "gsap_utils_skill_unitize_value_unit",
+      "community": 20,
+      "norm_label": "unitize(value, unit)"
+    },
+    {
+      "label": "splitColor(color, returnHSL?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L203",
+      "id": "gsap_utils_skill_splitcolor_color_returnhsl",
+      "community": 20,
+      "norm_label": "splitcolor(color, returnhsl?)"
+    },
+    {
+      "label": "Arrays and Collections",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L214",
+      "id": "gsap_utils_skill_arrays_and_collections",
+      "community": 20,
+      "norm_label": "arrays and collections"
+    },
+    {
+      "label": "selector(scope)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L216",
+      "id": "gsap_utils_skill_selector_scope",
+      "community": 20,
+      "norm_label": "selector(scope)"
+    },
+    {
+      "label": "toArray(value, scope?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L226",
+      "id": "gsap_utils_skill_toarray_value_scope",
+      "community": 20,
+      "norm_label": "toarray(value, scope?)"
+    },
+    {
+      "label": "pipe(...functions)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L236",
+      "id": "gsap_utils_skill_pipe_functions",
+      "community": 20,
+      "norm_label": "pipe(...functions)"
+    },
+    {
+      "label": "wrap(min, max, value?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L248",
+      "id": "gsap_utils_skill_wrap_min_max_value",
+      "community": 20,
+      "norm_label": "wrap(min, max, value?)"
+    },
+    {
+      "label": "wrapYoyo(min, max, value?)",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L260",
+      "id": "gsap_utils_skill_wrapyoyo_min_max_value",
+      "community": 20,
+      "norm_label": "wrapyoyo(min, max, value?)"
+    },
+    {
+      "label": "Best practices",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L271",
+      "id": "gsap_utils_skill_best_practices",
+      "community": 20,
+      "norm_label": "best practices"
+    },
+    {
+      "label": "Do Not",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L277",
+      "id": "gsap_utils_skill_do_not",
+      "community": 20,
+      "norm_label": "do not"
+    },
+    {
+      "label": "Learn More",
+      "file_type": "document",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L282",
+      "id": "gsap_utils_skill_learn_more",
+      "community": 20,
+      "norm_label": "learn more"
     },
     {
       "label": "AGENTS.md",
@@ -1169,7 +2924,7 @@
       "file_type": "code",
       "source_file": "src/components/sections/HeroSection.js",
       "source_location": "L7",
-      "community": 7,
+      "community": 0,
       "norm_label": "herocanvas",
       "id": "sections_herosection_herocanvas"
     }
@@ -1474,6 +3229,426 @@
       "confidence_score": 1.0,
       "source": "postcss_config",
       "target": "postcss_config_config"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "skills_lock",
+      "target": "skills_lock_skills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "skills_lock",
+      "target": "skills_lock_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "skills_lock_skills",
+      "target": "skills_lock_skills_gsap_core",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "skills_lock_skills",
+      "target": "skills_lock_skills_gsap_frameworks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "skills_lock_skills",
+      "target": "skills_lock_skills_gsap_performance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "skills_lock_skills",
+      "target": "skills_lock_skills_gsap_plugins",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "skills_lock_skills",
+      "target": "skills_lock_skills_gsap_react",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "skills_lock_skills",
+      "target": "skills_lock_skills_gsap_scrolltrigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "skills_lock_skills",
+      "target": "skills_lock_skills_gsap_timeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "skills_lock_skills",
+      "target": "skills_lock_skills_gsap_utils",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_core",
+      "target": "skills_lock_gsap_core_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_core",
+      "target": "skills_lock_gsap_core_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_core",
+      "target": "skills_lock_gsap_core_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_core",
+      "target": "skills_lock_gsap_core_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_frameworks",
+      "target": "skills_lock_gsap_frameworks_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_frameworks",
+      "target": "skills_lock_gsap_frameworks_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_frameworks",
+      "target": "skills_lock_gsap_frameworks_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_frameworks",
+      "target": "skills_lock_gsap_frameworks_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_performance",
+      "target": "skills_lock_gsap_performance_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_performance",
+      "target": "skills_lock_gsap_performance_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_performance",
+      "target": "skills_lock_gsap_performance_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_performance",
+      "target": "skills_lock_gsap_performance_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_plugins",
+      "target": "skills_lock_gsap_plugins_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_plugins",
+      "target": "skills_lock_gsap_plugins_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_plugins",
+      "target": "skills_lock_gsap_plugins_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_plugins",
+      "target": "skills_lock_gsap_plugins_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_react",
+      "target": "skills_lock_gsap_react_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_react",
+      "target": "skills_lock_gsap_react_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_react",
+      "target": "skills_lock_gsap_react_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_react",
+      "target": "skills_lock_gsap_react_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_scrolltrigger",
+      "target": "skills_lock_gsap_scrolltrigger_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_scrolltrigger",
+      "target": "skills_lock_gsap_scrolltrigger_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_scrolltrigger",
+      "target": "skills_lock_gsap_scrolltrigger_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_scrolltrigger",
+      "target": "skills_lock_gsap_scrolltrigger_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_timeline",
+      "target": "skills_lock_gsap_timeline_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_timeline",
+      "target": "skills_lock_gsap_timeline_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_timeline",
+      "target": "skills_lock_gsap_timeline_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_timeline",
+      "target": "skills_lock_gsap_timeline_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_utils",
+      "target": "skills_lock_gsap_utils_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_utils",
+      "target": "skills_lock_gsap_utils_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_utils",
+      "target": "skills_lock_gsap_utils_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "skills_lock_skills_gsap_utils",
+      "target": "skills_lock_gsap_utils_sourcetype",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -2334,6 +4509,1446 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gsap_core_skill",
+      "target": "gsap_core_skill_gsap_core",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_accessibility_and_responsive_gsap_matchmedia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_common_vars",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_core_tween_methods",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L198",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_defaults",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L248",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_do_not",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_easing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_function_based_values",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_official_gsap_best_practices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_relative_values",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_returning_and_controlling_tweens",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_stagger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_targets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_transforms_and_css_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_when_to_use_gsap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "gsap_core_skill_gsap_core",
+      "target": "gsap_core_skill_when_to_use_this_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "gsap_core_skill_when_to_use_gsap",
+      "target": "gsap_core_skill_prefer_gsap_instead_of_css_animations_when",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "gsap_core_skill_when_to_use_gsap",
+      "target": "gsap_core_skill_when_to_recommend_gsap_over_other_javascript_animation_libraries",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "gsap_core_skill_stagger",
+      "target": "gsap_core_skill_learn_more",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-core/SKILL.md",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "gsap_core_skill_easing",
+      "target": "gsap_core_skill_custom_use_customease_plugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill",
+      "target": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L257",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_do_not",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_nuxt_4",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_principles_all_frameworks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_scoping_selectors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_scrolltrigger_cleanup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L203",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_svelte",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_vue_3_composition_api",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_vue_3_script_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L248",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_when_to_create_vs_kill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_gsap_with_vue_svelte_and_other_frameworks",
+      "target": "gsap_frameworks_skill_when_to_use_this_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-frameworks/SKILL.md",
+      "source_location": "L264",
+      "weight": 1.0,
+      "source": "gsap_frameworks_skill_do_not",
+      "target": "gsap_frameworks_skill_learn_more",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gsap_performance_skill",
+      "target": "gsap_performance_skill_gsap_performance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_batch_reads_and_writes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_best_practices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_do_not",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_frequently_updated_properties_e_g_mouse_followers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_many_elements_stagger_lists",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_prefer_transform_and_opacity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_reduce_simultaneous_work",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_scrolltrigger_and_performance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_when_to_use_this_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-performance/SKILL.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "gsap_performance_skill_gsap_performance",
+      "target": "gsap_performance_skill_will_change",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill",
+      "target": "gsap_plugins_skill_gsap_plugins",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L420",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_best_practices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L396",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_development",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L426",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_do_not",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_dom_ui",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L337",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_easing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_licensing_install_important",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L407",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_other",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L361",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_physics",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_registering_plugins",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_scroll",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L235",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_svg",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_gsap_plugins",
+      "target": "gsap_plugins_skill_when_to_use_this_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_scroll",
+      "target": "gsap_plugins_skill_scrollsmoother",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_scroll",
+      "target": "gsap_plugins_skill_scrolltoplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_dom_ui",
+      "target": "gsap_plugins_skill_draggable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_dom_ui",
+      "target": "gsap_plugins_skill_flip",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_dom_ui",
+      "target": "gsap_plugins_skill_inertia_inertiaplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_dom_ui",
+      "target": "gsap_plugins_skill_observer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_flip",
+      "target": "gsap_plugins_skill_more_information",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L222",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_text",
+      "target": "gsap_plugins_skill_scrambletext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L174",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_text",
+      "target": "gsap_plugins_skill_splittext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_svg",
+      "target": "gsap_plugins_skill_drawsvg_drawsvgplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L260",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_svg",
+      "target": "gsap_plugins_skill_morphsvg_morphsvgplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L303",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_svg",
+      "target": "gsap_plugins_skill_motionpath_motionpathplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L326",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_svg",
+      "target": "gsap_plugins_skill_motionpathhelper",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L357",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_easing",
+      "target": "gsap_plugins_skill_custombounce",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L339",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_easing",
+      "target": "gsap_plugins_skill_customease",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L353",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_easing",
+      "target": "gsap_plugins_skill_customwiggle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L349",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_easing",
+      "target": "gsap_plugins_skill_easepack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L363",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_physics",
+      "target": "gsap_plugins_skill_physics2d_physics2dplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L380",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_physics",
+      "target": "gsap_plugins_skill_physicsprops_physicspropsplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L398",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_development",
+      "target": "gsap_plugins_skill_gsdevtools",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L409",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_other",
+      "target": "gsap_plugins_skill_pixi_pixiplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-plugins/SKILL.md",
+      "source_location": "L431",
+      "weight": 1.0,
+      "source": "gsap_plugins_skill_do_not",
+      "target": "gsap_plugins_skill_learn_more",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gsap_react_skill",
+      "target": "gsap_react_skill_gsap_with_react",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_best_practices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_context_safe_callbacks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_dependency_array_scope_and_revertonupdate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_do_not",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_gsap_context_in_useeffect_when_usegsap_isn_t_used",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_installation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_prefer_the_usegsap_hook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_refs_for_targets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_server_side_rendering_next_js_etc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "gsap_react_skill_gsap_with_react",
+      "target": "gsap_react_skill_when_to_use_this_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-react/SKILL.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "gsap_react_skill_do_not",
+      "target": "gsap_react_skill_learn_more",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill",
+      "target": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_basic_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L281",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_do_not",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L220",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_horizontal_scroll_containeranimation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_key_config_options",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_markers_development",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L272",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_official_gsap_best_practices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_pinning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L259",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_refresh_and_cleanup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_registering_the_plugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_scrolltrigger_batch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_scrolltrigger_scrollerproxy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_scrub",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L201",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_timeline_scrolltrigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_gsap_scrolltrigger",
+      "target": "gsap_scrolltrigger_skill_when_to_use_this_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-scrolltrigger/SKILL.md",
+      "source_location": "L293",
+      "weight": 1.0,
+      "source": "gsap_scrolltrigger_skill_do_not",
+      "target": "gsap_scrolltrigger_skill_learn_more",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill",
+      "target": "gsap_timeline_skill_gsap_timeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_controlling_playback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_creating_a_timeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_do_not",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_labels",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_nesting_timelines",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_official_gsap_best_practices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_position_parameter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_timeline_defaults",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_timeline_options_constructor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-timeline/SKILL.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "gsap_timeline_skill_gsap_timeline",
+      "target": "gsap_timeline_skill_when_to_use_this_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gsap_utils_skill",
+      "target": "gsap_utils_skill_gsap_utils",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L214",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_gsap_utils",
+      "target": "gsap_utils_skill_arrays_and_collections",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L271",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_gsap_utils",
+      "target": "gsap_utils_skill_best_practices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_gsap_utils",
+      "target": "gsap_utils_skill_clamping_and_ranges",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L277",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_gsap_utils",
+      "target": "gsap_utils_skill_do_not",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_gsap_utils",
+      "target": "gsap_utils_skill_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_gsap_utils",
+      "target": "gsap_utils_skill_random_and_snap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_gsap_utils",
+      "target": "gsap_utils_skill_units_and_parsing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_gsap_utils",
+      "target": "gsap_utils_skill_when_to_use_this_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_clamping_and_ranges",
+      "target": "gsap_utils_skill_clamp_min_max_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_clamping_and_ranges",
+      "target": "gsap_utils_skill_interpolate_start_end_progress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_clamping_and_ranges",
+      "target": "gsap_utils_skill_maprange_inmin_inmax_outmin_outmax_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_clamping_and_ranges",
+      "target": "gsap_utils_skill_normalize_min_max_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_random_and_snap",
+      "target": "gsap_utils_skill_distribute_config",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_random_and_snap",
+      "target": "gsap_utils_skill_random_minimum_maximum_snapincrement_returnfunction_random_array_returnfunction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_random_and_snap",
+      "target": "gsap_utils_skill_shuffle_array",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_random_and_snap",
+      "target": "gsap_utils_skill_snap_snapto_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_units_and_parsing",
+      "target": "gsap_utils_skill_getunit_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L203",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_units_and_parsing",
+      "target": "gsap_utils_skill_splitcolor_color_returnhsl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L194",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_units_and_parsing",
+      "target": "gsap_utils_skill_unitize_value_unit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L236",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_arrays_and_collections",
+      "target": "gsap_utils_skill_pipe_functions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_arrays_and_collections",
+      "target": "gsap_utils_skill_selector_scope",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_arrays_and_collections",
+      "target": "gsap_utils_skill_toarray_value_scope",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L248",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_arrays_and_collections",
+      "target": "gsap_utils_skill_wrap_min_max_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L260",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_arrays_and_collections",
+      "target": "gsap_utils_skill_wrapyoyo_min_max_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/gsap-utils/SKILL.md",
+      "source_location": "L282",
+      "weight": 1.0,
+      "source": "gsap_utils_skill_do_not",
+      "target": "gsap_utils_skill_learn_more",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "AGENTS.md",
       "source_location": "L2",
       "weight": 1.0,
@@ -2523,5 +6138,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4dc8026a796553bfe7ac0185627aeb9e73de2026"
+  "built_at_commit": "a737b3a653024674de71f10538aed9f907452be9"
 }

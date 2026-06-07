@@ -1,8 +1,11 @@
 'use client';
 
 import React, { useEffect, useRef } from 'react';
+import gsap from 'gsap';
 
 const HeroSection = () => {
+  const heroRef = useRef(null);
+  const cardRef = useRef(null);
   const eyebrowRef = useRef(null);
   const line1Ref = useRef(null);
   const line2Ref = useRef(null);
@@ -28,15 +31,121 @@ const HeroSection = () => {
   }, []);
 
   useEffect(() => {
-    const hero = document.getElementById('hero');
-    if (!hero || !auraRef.current) return;
+    const hero = heroRef.current;
+    if (!hero) return;
+
+    // Local coordinates object for GSAP to animate
+    const coords = {
+      x: window.innerWidth / 2,
+      y: window.innerHeight / 2,
+      r: 0
+    };
+
+    // Update style properties with proper pixel units so CSS parses correctly
+    const updateMask = () => {
+      hero.style.setProperty('--mouse-x', `${coords.x}px`);
+      hero.style.setProperty('--mouse-y', `${coords.y}px`);
+      hero.style.setProperty('--mouse-r', `${coords.r}px`);
+    };
+
+    // Set initial values
+    updateMask();
+
     const handleMouseMove = (e) => {
       const rect = hero.getBoundingClientRect();
-      auraRef.current.style.left = (e.clientX - rect.left) + 'px';
-      auraRef.current.style.top = (e.clientY - rect.top) + 'px';
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+
+      // Smoothly animate coords
+      gsap.to(coords, {
+        x: x,
+        y: y,
+        duration: 0.45,
+        ease: 'power2.out',
+        onUpdate: updateMask,
+        overwrite: 'auto'
+      });
+
+      // Animate spotlight aura (centered exactly at cursor)
+      if (auraRef.current) {
+        gsap.to(auraRef.current, {
+          x: x - 300, 
+          y: y - 300,
+          duration: 0.8,
+          ease: 'power3.out',
+          overwrite: 'auto'
+        });
+      }
+
+      // Micro parallax 3D tilt effect on the text content (very subtle)
+      if (cardRef.current) {
+        const centerX = rect.width / 2;
+        const centerY = rect.height / 2;
+        const deltaX = e.clientX - rect.left - centerX;
+        const deltaY = e.clientY - rect.top - centerY;
+        
+        // Tilt rotation angles (extremely subtle max 1.5 degrees)
+        const rotX = -(deltaY / centerY) * 1.5;
+        const rotY = (deltaX / centerX) * 1.5;
+
+        gsap.to(cardRef.current, {
+          rotateX: rotX,
+          rotateY: rotY,
+          y: -3,
+          duration: 0.8,
+          ease: 'power2.out',
+          overwrite: 'auto'
+        });
+      }
     };
+
+    const handleMouseEnter = () => {
+      hero.classList.add('hero-active');
+      
+      // Animate mask size expansion
+      gsap.to(coords, {
+        r: 220,
+        duration: 0.7,
+        ease: 'power2.out',
+        onUpdate: updateMask,
+        overwrite: 'auto'
+      });
+    };
+
+    const handleMouseLeave = () => {
+      hero.classList.remove('hero-active');
+      
+      // Collapse mask size
+      gsap.to(coords, {
+        r: 0,
+        duration: 0.7,
+        ease: 'power2.out',
+        onUpdate: updateMask,
+        overwrite: 'auto'
+      });
+      
+      // Reset card tilt smoothly
+      if (cardRef.current) {
+        gsap.to(cardRef.current, {
+          rotateX: 0,
+          rotateY: 0,
+          y: 0,
+          duration: 0.8,
+          ease: 'power2.out',
+          overwrite: 'auto'
+        });
+      }
+    };
+
     hero.addEventListener('mousemove', handleMouseMove);
-    return () => hero.removeEventListener('mousemove', handleMouseMove);
+    hero.addEventListener('mouseenter', handleMouseEnter);
+    hero.addEventListener('mouseleave', handleMouseLeave);
+
+    return () => {
+      hero.removeEventListener('mousemove', handleMouseMove);
+      hero.removeEventListener('mouseenter', handleMouseEnter);
+      hero.removeEventListener('mouseleave', handleMouseLeave);
+    };
   }, []);
 
   const handleScrollToSection = (e, id) => {
@@ -48,9 +157,10 @@ const HeroSection = () => {
   return (
     <div className="relative">
       {/* HERO */}
-      <section className="hero" id="hero">
+      <section className="hero" id="hero" ref={heroRef}>
         <div className="hero-bg" />
         <div className="hero-illustration" />
+        <div className="hero-illustration-color" />
         <div className="hero-overlay" />
         <div className="hero-grain" />
         <div className="hero-aura" ref={auraRef} id="heroAura" />
@@ -78,16 +188,9 @@ const HeroSection = () => {
             <path d="M92 210 Q64 242 44 290 Q28 332 10 392" stroke="#C4922A" strokeWidth=".65" />
             <ellipse cx="164" cy="158" rx="16" ry="26" transform="rotate(-18 164 158)" fill="rgba(196,146,42,.24)" />
           </svg>
-          {/* faint grid lines */}
-          <svg style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', opacity: '.022' }} viewBox="0 0 1440 900" preserveAspectRatio="none">
-            <line x1="0" y1="300" x2="1440" y2="300" stroke="#C4922A" strokeWidth=".8" />
-            <line x1="0" y1="600" x2="1440" y2="600" stroke="#C4922A" strokeWidth=".8" />
-            <line x1="480" y1="0" x2="480" y2="900" stroke="#C4922A" strokeWidth=".8" />
-            <line x1="960" y1="0" x2="960" y2="900" stroke="#C4922A" strokeWidth=".8" />
-          </svg>
         </div>
 
-        <div className="hero-content" id="heroContent">
+        <div className="hero-content" id="heroContent" ref={cardRef}>
           <p className="hero-eyebrow" ref={eyebrowRef} id="eyebrow">
             Rishra, Hooghly &nbsp;·&nbsp; Est. 1860 &nbsp;·&nbsp; West Bengal
           </p>
