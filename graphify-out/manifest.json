@@ -1,0 +1,232 @@
+{
+  "eslint.config.mjs": {
+    "mtime": 1780482849.6032622,
+    "ast_hash": "bcb00e240634dd9448e57386fdff1902",
+    "semantic_hash": ""
+  },
+  "jsconfig.json": {
+    "mtime": 1780761044.0120869,
+    "ast_hash": "373b4d3b81ad935084b8292c8233423e",
+    "semantic_hash": ""
+  },
+  "next.config.mjs": {
+    "mtime": 1780482849.620778,
+    "ast_hash": "9b2513e16440eb1cf02bc3ff4b3d8a34",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1780846757.7833416,
+    "ast_hash": "9686efe29b919c49cf8dd5e6068b6aae",
+    "semantic_hash": ""
+  },
+  "postcss.config.mjs": {
+    "mtime": 1780482849.6284952,
+    "ast_hash": "239f3ebf717465dc636818a1a619398d",
+    "semantic_hash": ""
+  },
+  "src/app/layout.js": {
+    "mtime": 1780846112.2724397,
+    "ast_hash": "f275a92a1bd66a4f824a520d7d28e9aa",
+    "semantic_hash": ""
+  },
+  "src/app/page.js": {
+    "mtime": 1780846847.6415248,
+    "ast_hash": "0ce851cb85a0607b3b8c4d6b3797fb6b",
+    "semantic_hash": ""
+  },
+  "src/components/checkout/CartDrawer.js": {
+    "mtime": 1780846859.7413728,
+    "ast_hash": "720362f9328e62fc4099663c3b8e6175",
+    "semantic_hash": ""
+  },
+  "src/components/layout/Footer.js": {
+    "mtime": 1780846796.0556595,
+    "ast_hash": "db7ab788624e62ce13ef3779d43cf42f",
+    "semantic_hash": ""
+  },
+  "src/components/layout/Navbar.js": {
+    "mtime": 1780846791.2244596,
+    "ast_hash": "fbaba4ee88549f50c7f8b323b0a38450",
+    "semantic_hash": ""
+  },
+  "src/components/layout/Navigation.js": {
+    "mtime": 1780762205.5619364,
+    "ast_hash": "10095c42f3c269c9c0f9e1152b15498c",
+    "semantic_hash": ""
+  },
+  "src/components/sections/ContactSection.js": {
+    "mtime": 1780846840.4155161,
+    "ast_hash": "869bc94f35080dcef08c33545a0c1969",
+    "semantic_hash": ""
+  },
+  "src/components/sections/CraftSection.js": {
+    "mtime": 1780846833.7366693,
+    "ast_hash": "d391b3be6389d9440b5264448afa298a",
+    "semantic_hash": ""
+  },
+  "src/components/sections/FestiveSection.js": {
+    "mtime": 1780767361.0198946,
+    "ast_hash": "bdaa60b823c03ee61f3e45fa4beb441f",
+    "semantic_hash": ""
+  },
+  "src/components/sections/HeritageSection.js": {
+    "mtime": 1780846815.9119232,
+    "ast_hash": "4b48e07cdff0ce413cdfb202a85047a4",
+    "semantic_hash": ""
+  },
+  "src/components/sections/Hero.js": {
+    "mtime": 1780762212.1561549,
+    "ast_hash": "2cfab483d182c0f7c5755e36743ca00c",
+    "semantic_hash": ""
+  },
+  "src/components/sections/HeroSection.js": {
+    "mtime": 1780846807.902003,
+    "ast_hash": "4c38d8b27f5a3869b101ad2bda1e5b9c",
+    "semantic_hash": ""
+  },
+  "src/components/sections/LogisticsSection.js": {
+    "mtime": 1780766147.4709282,
+    "ast_hash": "e15d11e810b8d926ebb14ae5d59073ad",
+    "semantic_hash": ""
+  },
+  "src/components/sections/Masterpieces.js": {
+    "mtime": 1780762225.9226022,
+    "ast_hash": "439c35f752ae0e11b46c8e1abaff82c7",
+    "semantic_hash": ""
+  },
+  "src/components/sections/MasterpiecesSection.js": {
+    "mtime": 1780846827.315384,
+    "ast_hash": "d7bac333aea06556ade7b75f3a78efb4",
+    "semantic_hash": ""
+  },
+  "src/components/sections/PressSection.js": {
+    "mtime": 1780766140.5236623,
+    "ast_hash": "06f0cf9f4609f366b55bb8d6f3dda7e9",
+    "semantic_hash": ""
+  },
+  "src/components/sections/TheCraft.js": {
+    "mtime": 1780762232.5138705,
+    "ast_hash": "8cfdcaf49c313e689274ee298476fd4a",
+    "semantic_hash": ""
+  },
+  "src/components/sections/Timeline.js": {
+    "mtime": 1780762218.3417957,
+    "ast_hash": "a6759a1cbdf043a02ea6946690389a20",
+    "semantic_hash": ""
+  },
+  "src/components/ui/AiImage.js": {
+    "mtime": 1780764023.6517887,
+    "ast_hash": "9fb8a99b4b60762db8b1eb714127e224",
+    "semantic_hash": ""
+  },
+  "src/components/ui/CustomCursor.js": {
+    "mtime": 1780846785.6977558,
+    "ast_hash": "f1b3ed4d38a3eb8114e30ac16b48becd",
+    "semantic_hash": ""
+  },
+  "src/components/ui/TopographicBackground.js": {
+    "mtime": 1780846204.1020916,
+    "ast_hash": "68bb8f6e6d7609f6ac36b6c046be6f4b",
+    "semantic_hash": ""
+  },
+  "src/components/webgl/HeroCanvas.js": {
+    "mtime": 1780764032.245123,
+    "ast_hash": "f7f270ea1e084b696f31018a2a372a9c",
+    "semantic_hash": ""
+  },
+  "src/context/CartContext.js": {
+    "mtime": 1780761188.567902,
+    "ast_hash": "c4d7d622759046741486bb324a5fabee",
+    "semantic_hash": ""
+  },
+  "src/data/menuData.json": {
+    "mtime": 1780761183.0355115,
+    "ast_hash": "0d09127e16a5e2fe34838a093c2d28e9",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1780761110.716231,
+    "ast_hash": "9e09241799026ac05be315a2f0b50055",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1780761110.7167544,
+    "ast_hash": "5c27369b226fcf2be8a6cfe52224e767",
+    "semantic_hash": ""
+  },
+  "PRD.md": {
+    "mtime": 1780761253.8552346,
+    "ast_hash": "f5515c4bb8b7fb7b8ae705ea05ad468d",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1780482849.5886843,
+    "ast_hash": "ff47271e53637b2ba6ba72ad2b70f6d7",
+    "semantic_hash": ""
+  },
+  "design.md": {
+    "mtime": 1780761260.111928,
+    "ast_hash": "873f64bd959a3cc987b9a77302620737",
+    "semantic_hash": ""
+  },
+  "flow.md": {
+    "mtime": 1780761265.7090123,
+    "ast_hash": "71ff9f2bada0e4e90dd79cad4c68b09d",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1780846619.1980083,
+    "ast_hash": "040842df36aeba0e5f0134cc19f774e4",
+    "semantic_hash": ""
+  },
+  "public/assets/images/giftbox.png": {
+    "mtime": 1780761098.6414611,
+    "ast_hash": "e1c6ed921b6fa18227b55514e8e49a22",
+    "semantic_hash": ""
+  },
+  "public/assets/images/jolbhora.png": {
+    "mtime": 1780761067.003727,
+    "ast_hash": "62cc1007ad995e5fd5c54ddb2bd3f175",
+    "semantic_hash": ""
+  },
+  "public/assets/images/rabri.png": {
+    "mtime": 1780761082.4203706,
+    "ast_hash": "7128b10da0c64f215471d45e51427276",
+    "semantic_hash": ""
+  },
+  "public/assets/images/sweets.png": {
+    "mtime": 1780761158.8869371,
+    "ast_hash": "cd64b7102bfc11ab056c1e264f86db5e",
+    "semantic_hash": ""
+  },
+  "public/file.svg": {
+    "mtime": 1780482849.6284952,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": ""
+  },
+  "public/globe.svg": {
+    "mtime": 1780482849.6447892,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": ""
+  },
+  "public/next.svg": {
+    "mtime": 1780482849.6531396,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": ""
+  },
+  "public/vercel.svg": {
+    "mtime": 1780482849.6614654,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": ""
+  },
+  "public/window.svg": {
+    "mtime": 1780482849.670884,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": ""
+  },
+  "src/components/ui/Loader.js": {
+    "mtime": 1780846779.307999,
+    "ast_hash": "61675f58dcaf9bf54894528d23d31b65",
+    "semantic_hash": ""
+  }
+}

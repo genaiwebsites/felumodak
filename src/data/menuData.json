@@ -1,0 +1,97 @@
+{
+  "shop": {
+    "name": "Felu Modak",
+    "founded": "1851",
+    "location": "Srimani Lane, G.T. Road, Rishra, Hooghly, West Bengal",
+    "story": "For over 175 years, Felu Modak has preserved the pure artisanal tradition of Bengal's confectionery craft, balancing heritage recipes with modern automated standards.",
+    "patrons": ["Mahatma Gandhi", "Rabindranath Tagore", "Netaji Subhas Chandra Bose"]
+  },
+  "menu": [
+    {
+      "id": "mohini-sandesh",
+      "name": "Mohini Sandesh (Jolbhora)",
+      "heritageYear": "1905",
+      "tagline": "The Original Liquid-Filled Sweet",
+      "description": "Felu Modak's custom liquid-filled sweet. Made from fresh, hand-kneaded chhana and filled with a liquid syrup center of fresh Nolen Gur (winter palm jaggery) or rose syrup depending on the season.",
+      "price": 450,
+      "currency": "INR",
+      "unit": "Box of 12",
+      "ingredients": ["Fresh Chhana", "Date Palm Gur / Rose Syrup", "Cardamom"],
+      "sensoryNotes": {
+        "texture": "Granular, soft exterior with a sudden burst of liquid syrup core",
+        "sweetness": "Earthy, aromatic sweetness"
+      },
+      "image": "/assets/images/jolbhora.png"
+    },
+    {
+      "id": "saffron-rabri",
+      "name": "Saffron Rabri",
+      "heritageYear": "1870",
+      "tagline": "Slow-Simmered Layered Cream",
+      "description": "Thickened cow milk slow-simmered in shallow iron pans, layered with rich cream malai folds and infused with Kashmiri saffron, almonds, and pistachios.",
+      "price": 600,
+      "currency": "INR",
+      "unit": "500g Jar",
+      "ingredients": ["Organic Cow Milk", "Kashmiri Saffron", "Pistachio", "Almonds"],
+      "sensoryNotes": {
+        "texture": "Dense, velvety, ribboned cream folds",
+        "sweetness": "Rich, caramelized, saffron-forward"
+      },
+      "image": "/assets/images/rabri.png"
+    },
+    {
+      "id": "heritage-gaja",
+      "name": "Heritage Gaja",
+      "heritageYear": "1851",
+      "tagline": "Crisply Layered Gold Standard",
+      "description": "Felu Modak's world-famous Gaja. Multi-layered dough fried in pure ghee until crisp, then soaked in thick cardamom sugar syrup to create an exquisite crispy outer glaze and soft interior.",
+      "price": 350,
+      "currency": "INR",
+      "unit": "Box of 16",
+      "ingredients": ["Refined Flour", "Pure Ghee", "Cardamom Sugar Syrup"],
+      "sensoryNotes": {
+        "texture": "Extremely crispy and flaky layers, juicy sweet interior",
+        "sweetness": "Deep, caramelized, cardamom-scented"
+      },
+      "image": "/assets/images/sweets.png"
+    },
+    {
+      "id": "chhanar-polao",
+      "name": "Chhanar Polao",
+      "heritageYear": "1890",
+      "tagline": "Saffron Sweet Rice Grains",
+      "description": "A dry, delicate dessert made of tiny fried paneer globules resembling fine rice grains, lightly sweetened and tossed with saffron, raisins, and cashew nuts.",
+      "price": 480,
+      "currency": "INR",
+      "unit": "500g Box",
+      "ingredients": ["Fresh Chhana", "Saffron", "Cashews", "Raisins", "Cardamom"],
+      "sensoryNotes": {
+        "texture": "Fine, loose, separate granules with a soft bite",
+        "sweetness": "Mild, ghee-rich, and aromatic"
+      },
+      "image": "/assets/images/giftbox.png"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "Mid 19th Century",
+      "title": "The Founding Stall",
+      "description": "Felu Charan De establishes a small sweet shop in Rishra, Hooghly, serving fresh hand-pressed sandesh to travelers along the historical Grand Trunk Road."
+    },
+    {
+      "year": "1905",
+      "title": "Creating the Mohini Sandesh",
+      "description": "Felu Modak builds its renown by introducing the 'Mohini Sandesh' (their premium adaptation of the liquid-filled Jolbhora) using wood-carved jackfruit-wood molds."
+    },
+    {
+      "year": "1940s",
+      "title": "Patronage of Leaders",
+      "description": "Mahatma Gandhi, Rabindranath Tagore, and Subhas Chandra Bose praise the purity and artisanal taste of Felu Modak's sweets during their visits to Hooghly."
+    },
+    {
+      "year": "2026",
+      "title": "The Next-Gen D2C Brand",
+      "description": "Felu Modak transitions into a national D2C brand, combining 175 years of heritage recipes with premium cold-chain delivery."
+    }
+  ]
+}
